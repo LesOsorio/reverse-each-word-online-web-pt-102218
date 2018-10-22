@@ -1,7 +1,7 @@
 
-def reverse_each_word(string)
-  string.each do |string|
+def reverse_each_word(sentence1)
+  sentence1.each do |string|
     puts "Hello there, and how are you?"
-    string.reverse
+    sentence1.reverse
 end
 end
